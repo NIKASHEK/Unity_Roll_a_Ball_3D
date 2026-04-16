@@ -28,6 +28,7 @@
 
 ## Screenshots
 ![Gameplay](Screenshots/gameplay.png)
+![Gameplay](Screenshots/gameplay1.png)
 
 ## Author
 Nika Shekiladze
