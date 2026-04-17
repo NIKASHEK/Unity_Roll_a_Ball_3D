@@ -6,7 +6,7 @@
 - Collectible Pickups
 - Score counter UI
 - Win condition 
-- Lose condition (Enemy collision || Falling from the ground)
+- Lose condition (Enemy collision / Falling from the ground)
 
 ## Technologies
 - C#
