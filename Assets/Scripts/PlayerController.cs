@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
     private void SetCount()
     {
         countText.text = $"score: {count}";
-        if (count >= 76)
+        if (count >= 86)
         {
             winText.gameObject.SetActive(true);
             countText.gameObject.SetActive(false);
@@ -68,7 +68,7 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        if (gameObject != null && count < 76 && transform.position.y < -3)
+        if (gameObject != null && count < 86 && transform.position.y < -3)
         {
             SetLooseCondition();
         }
